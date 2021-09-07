@@ -1,0 +1,1292 @@
+<award xmlns="https://www.fpds.gov/FPDS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="String">
+	<awardID>
+		<awardContractID>
+			<agencyID name="String">String</agencyID>
+			<PIID>String</PIID>
+			<modNumber>0</modNumber>
+			<transactionNumber>0</transactionNumber>
+		</awardContractID>
+		<referencedIDVID>
+			<agencyID name="String">String</agencyID>
+			<PIID>String</PIID>
+			<modNumber>0</modNumber>
+		</referencedIDVID>
+	</awardID>
+	<listOfOtherIDsForThisAward>
+		<awardID>
+			<awardContractID>
+				<agencyID name="String">String</agencyID>
+				<PIID>String</PIID>
+				<modNumber>0</modNumber>
+				<transactionNumber>0</transactionNumber>
+			</awardContractID>
+			<referencedIDVID>
+				<agencyID name="String">String</agencyID>
+				<PIID>String</PIID>
+				<modNumber>0</modNumber>
+			</referencedIDVID>
+		</awardID>
+	</listOfOtherIDsForThisAward>
+	<relevantContractDates>
+		<signedDate>0000-00-00 00:00:00</signedDate>
+		<effectiveDate>0000-00-00 00:00:00</effectiveDate>
+		<currentCompletionDate>0000-00-00 00:00:00</currentCompletionDate>
+		<ultimateCompletionDate>0000-00-00 00:00:00</ultimateCompletionDate>
+	</relevantContractDates>
+	<dollarValues>
+		<obligatedAmount>3.1415</obligatedAmount>
+		<baseAndExercisedOptionsValue>3.1415</baseAndExercisedOptionsValue>
+		<baseAndAllOptionsValue>3.1415</baseAndAllOptionsValue>
+	</dollarValues>
+        <totalDollarValues>
+		<totalObligatedAmount>3.1415</totalObligatedAmount>
+		<totalBaseAndExercisedOptionsValue>3.1415</totalBaseAndExercisedOptionsValue>
+		<totalBaseAndAllOptionsValue>3.1415</totalBaseAndAllOptionsValue>
+	</totalDollarValues>
+	<purchaserInformation>
+		<contractingOfficeAgencyID name="String" departmentID="String" departmentName="String">String</contractingOfficeAgencyID>
+		<contractingOfficeID Description="String" regionCode="String" country="String">String</contractingOfficeID>
+		<fundingRequestingAgencyID name="String" departmentID="String" departmentName="String">String</fundingRequestingAgencyID>
+		<fundingRequestingOfficeID name="String">String</fundingRequestingOfficeID>
+                <foreignFunding description="String">String</foreignFunding>
+		<purchaseReason description="String">String</purchaseReason>
+	</purchaserInformation>
+	<contractMarketingData>
+		<feePaidForUseOfService>3.1415</feePaidForUseOfService>
+		<totalEstimatedOrderValue>3.1415</totalEstimatedOrderValue>
+	</contractMarketingData>
+	<contractData>
+		<contractActionType description="String" part8OrPart13="String">String</contractActionType>
+		<typeOfContractPricing description="String">String</typeOfContractPricing>
+		<reasonForModification description="String">String</reasonForModification>
+		<majorProgramCode>String</majorProgramCode>
+		<nationalInterestActionCode description="String">String</nationalInterestActionCode>
+		<costOrPricingData description="String">String</costOrPricingData>
+		<solicitationID>String</solicitationID>
+		<costAccountingStandardsClause description="String">String</costAccountingStandardsClause>
+		         <descriptionOfContractRequirement>String</descriptionOfContractRequirement>
+                <inherentlyGovernmentalFunction description="String">String</inherentlyGovernmentalFunction> 
+		<GFE-GFP description="String">String</GFE-GFP>
+		<seaTransportation description="String">String</seaTransportation>
+		<undefinitizedAction description="String">String</undefinitizedAction>
+		<consolidatedContract description="String">String</consolidatedContract>
+		<performanceBasedServiceContract description="String">String</performanceBasedServiceContract>
+		<multiYearContract description="String">String</multiYearContract>
+		<listOfTreasuryAccounts>
+			<treasuryAccount>
+				<treasuryAccountSymbol>
+					<subLevelPrefixCode>St</subLevelPrefixCode>
+					<allocationTransferAgencyIdentifier>Str</allocationTransferAgencyIdentifier>
+					<agencyIdentifier name="String">String</agencyIdentifier>
+					<beginningPeriodOfAvailability>Stri</beginningPeriodOfAvailability>
+					<endingPeriodOfAvailability>Stri</endingPeriodOfAvailability>
+					<availabilityTypeCode description="String">String</availabilityTypeCode>
+					<mainAccountCode>Stri</mainAccountCode>
+					<subAccountCode>Str</subAccountCode>
+				</treasuryAccountSymbol>
+				<initiative description="String">String</initiative>
+				<obligatedAmount>3.1415</obligatedAmount>
+			</treasuryAccount>
+		</listOfTreasuryAccounts>
+		<referencedIDVPart8OrPart13>String</referencedIDVPart8OrPart13>
+		<referencedIDVMultipleOrSingle>String</referencedIDVMultipleOrSingle>
+		<referencedIDVType>String</referencedIDVType>
+		<contingencyHumanitarianPeacekeepingOperation description="String">String</contingencyHumanitarianPeacekeepingOperation>
+		<contractFinancing description="String">String</contractFinancing>
+		<purchaseCardAsPaymentMethod description="String">String</purchaseCardAsPaymentMethod>
+		<numberOfActions>1</numberOfActions>
+	</contractData>
+	<legislativeMandates>
+		<ClingerCohenAct description="String">String</ClingerCohenAct>
+		<materialsSuppliesArticlesEquipment description="String">String</materialsSuppliesArticlesEquipment>
+		<laborStandards description="String">String</laborStandards>
+		<constructionWageRateRequirements description="String">String</constructionWageRateRequirements>
+		<interagencyContractingAuthority description="String">String</interagencyContractingAuthority>
+		<otherStatutoryAuthority>String</otherStatutoryAuthority>
+		<listOfAdditionalReportingValues>
+			<additionalReportingValue>S</additionalReportingValue>
+			<additionalReportingValue>S</additionalReportingValue>
+		</listOfAdditionalReportingValues>
+	</legislativeMandates>
+	<productOrServiceInformation>
+		<productOrServiceCode description="String" productOrServiceType="String">String</productOrServiceCode>
+		<contractBundling description="String">String</contractBundling>
+		<claimantProgramCode description="String">String</claimantProgramCode>
+		<principalNAICSCode description="String">String</principalNAICSCode>
+		<recoveredMaterialClauses description="String">String</recoveredMaterialClauses>
+		<manufacturingOrganizationType description="String">String</manufacturingOrganizationType>
+		<systemEquipmentCode description="String">String</systemEquipmentCode>
+		<informationTechnologyCommercialItemCategory description="String">String</informationTechnologyCommercialItemCategory>
+		<useOfEPADesignatedProducts description="String">String</useOfEPADesignatedProducts>
+		<countryOfOrigin name="String">String</countryOfOrigin>
+		<placeOfManufacture description="String">String</placeOfManufacture>
+		<IDVNAICS description="String">String</IDVNAICS>
+		<NAICSSource description="String">String</NAICSSource>
+	</productOrServiceInformation>
+	<vendor>
+		<vendorHeader>
+			<vendorName>String</vendorName>
+			<vendorAlternateName>String</vendorAlternateName>
+			<vendorLegalOrganizationName>String</vendorLegalOrganizationName>
+			<vendorDoingAsBusinessName>String</vendorDoingAsBusinessName>
+			<vendorEnabled>false</vendorEnabled>
+		</vendorHeader>
+		<vendorSiteDetails>
+			<vendorSocioEconomicIndicators>
+				<isAlaskanNativeOwnedCorporationOrFirm>1</isAlaskanNativeOwnedCorporationOrFirm>
+				<isAmericanIndianOwned>1</isAmericanIndianOwned>
+				<isIndianTribe>1</isIndianTribe>
+				<isNativeHawaiianOwnedOrganizationOrFirm>1</isNativeHawaiianOwnedOrganizationOrFirm>
+				<isVeteranOwned>1</isVeteranOwned>
+				<isServiceRelatedDisabledVeteranOwnedBusiness>1</isServiceRelatedDisabledVeteranOwnedBusiness>
+				<isWomenOwned>1</isWomenOwned>
+				<isWomenOwnedSmallBusiness>1</isWomenOwnedSmallBusiness>
+				<isEconomicallyDisadvantagedWomenOwnedSmallBusiness>1</isEconomicallyDisadvantagedWomenOwnedSmallBusiness>
+				<isJointVentureWomenOwnedSmallBusiness>1</isJointVentureWomenOwnedSmallBusiness>
+				<isJointVentureEconomicallyDisadvantagedWomenOwnedSmallBusiness>1</isJointVentureEconomicallyDisadvantagedWomenOwnedSmallBusiness>
+				<minorityOwned>
+					<isMinorityOwned>1</isMinorityOwned>
+					<isSubContinentAsianAmericanOwnedBusiness>1</isSubContinentAsianAmericanOwnedBusiness>
+					<isAsianPacificAmericanOwnedBusiness>1</isAsianPacificAmericanOwnedBusiness>
+					<isBlackAmericanOwnedBusiness>1</isBlackAmericanOwnedBusiness>
+					<isHispanicAmericanOwnedBusiness>1</isHispanicAmericanOwnedBusiness>
+					<isNativeAmericanOwnedBusiness>1</isNativeAmericanOwnedBusiness>
+					<isOtherMinorityOwned>1</isOtherMinorityOwned>
+				</minorityOwned>
+				<isVerySmallBusiness>false</isVerySmallBusiness>
+			</vendorSocioEconomicIndicators>
+			<vendorBusinessTypes>
+				<isCommunityDevelopedCorporationOwnedFirm>1</isCommunityDevelopedCorporationOwnedFirm>
+				<isLaborSurplusAreaFirm>1</isLaborSurplusAreaFirm>
+				<federalGovernment>
+					<isFederalGovernment>1</isFederalGovernment>
+					<isFederallyFundedResearchAndDevelopmentCorp>1</isFederallyFundedResearchAndDevelopmentCorp>
+					<isFederalGovernmentAgency>1</isFederalGovernmentAgency>
+				</federalGovernment>
+				<isStateGovernment>false</isStateGovernment>
+				<localGovernment>
+					<isLocalGovernment>1</isLocalGovernment>
+					<isCityLocalGovernment>1</isCityLocalGovernment>
+					<isCountyLocalGovernment>1</isCountyLocalGovernment>
+					<isInterMunicipalLocalGovernment>1</isInterMunicipalLocalGovernment>
+					<isLocalGovernmentOwned>1</isLocalGovernmentOwned>
+					<isMunicipalityLocalGovernment>1</isMunicipalityLocalGovernment>
+					<isSchoolDistrictLocalGovernment>1</isSchoolDistrictLocalGovernment>
+					<isTownshipLocalGovernment>1</isTownshipLocalGovernment>
+				</localGovernment>
+				<isTribalGovernment>1</isTribalGovernment>
+				<isForeignGovernment>false</isForeignGovernment>
+				<businessOrOrganizationType>
+                                       <isCorporateEntityNotTaxExempt>1</isCorporateEntityNotTaxExempt>
+                                       <isCorporateEntityTaxExempt>1</isCorporateEntityTaxExempt>
+                                       <isPartnershipOrLimitedLiabilityPartnership>1</isPartnershipOrLimitedLiabilityPartnership>
+                                      <isSolePropreitorship>1</isSolePropreitorship>
+                                       <isSmallAgriculturalCooperative>1</isSmallAgriculturalCooperative>
+                                       <isInternationalOrganization>1</isInternationalOrganization>
+                                       <isUSGovernmentEntity></isUSGovernmentEntity>
+                               </businessOrOrganizationType>
+			</vendorBusinessTypes>
+			<vendorLineOfBusiness>
+                               <isCommunityDevelopmentCorporation>1</isCommunityDevelopmentCorporation>
+                               <isDomesticShelter>1</isDomesticShelter>
+                               <isEducationalInstitution>1</isEducationalInstitution>
+                               <isFoundation>1</isFoundation>
+                               <isHospital>1</isHospital>
+                               <isManufacturerOfGoods>1</isManufacturerOfGoods>
+                               <isVeterinaryHospital>1</isVeterinaryHospital>
+                               <isHispanicServicingInstitution>1</isHispanicServicingInstitution>
+                       </vendorLineOfBusiness>
+			<vendorRelationshipWithFederalGovernment>
+				<receivesContracts>1</receivesContracts>
+				<receivesGrants>1</receivesGrants>
+				<receivesContractsAndGrants>1</receivesContractsAndGrants>
+			</vendorRelationshipWithFederalGovernment>
+			<typeOfGovernmentEntity>
+				<isAirportAuthority>1</isAirportAuthority>
+				<isCouncilOfGovernments>1</isCouncilOfGovernments>
+				<isHousingAuthoritiesPublicOrTribal>1</isHousingAuthoritiesPublicOrTribal>
+				<isInterstateEntity>1</isInterstateEntity>
+				<isPlanningCommission>1</isPlanningCommission>
+				<isPortAuthority>1</isPortAuthority>
+				<isTransitAuthority>1</isTransitAuthority>
+			</typeOfGovernmentEntity>
+			<vendorOrganizationFactors>
+				<isSubchapterSCorporation>1</isSubchapterSCorporation>
+				<isLimitedLiabilityCorporation>1</isLimitedLiabilityCorporation>
+				<isForeignOwnedAndLocated>1</isForeignOwnedAndLocated>
+				<profitStructure>
+					<isForProfitOrganization>false</isForProfitOrganization>
+					<isNonprofitOrganization>false</isNonprofitOrganization>
+					<isOtherNotForProfitOrganization>false</isOtherNotForProfitOrganization>
+				</profitStructure>
+				<isShelteredWorkshop>1</isShelteredWorkshop>
+				<stateOfIncorporation name="String">String</stateOfIncorporation>
+				<countryOfIncorporation name="String">String</countryOfIncorporation>
+				<organizationalType>String</organizationalType>
+				
+			</vendorOrganizationFactors>
+			<typeOfEducationalEntity>
+				<is1862LandGrantCollege>1</is1862LandGrantCollege>
+				<is1890LandGrantCollege>1</is1890LandGrantCollege>
+				<is1994LandGrantCollege>1</is1994LandGrantCollege>
+				<isHistoricallyBlackCollegeOrUniversity>1</isHistoricallyBlackCollegeOrUniversity>
+				<isMinorityInstitution>1</isMinorityInstitution>
+				<isPrivateUniversityOrCollege>1</isPrivateUniversityOrCollege>
+				<isSchoolOfForestry>1</isSchoolOfForestry>
+				<isStateControlledInstitutionofHigherLearning>1</isStateControlledInstitutionofHigherLearning>
+				<isTribalCollege>1</isTribalCollege>
+				<isVeterinaryCollege>1</isVeterinaryCollege>
+				<isAlaskanNativeServicingInstitution></isAlaskanNativeServicingInstitution>
+				<isNativeHawaiianServicingInstitution></isNativeHawaiianServicingInstitution>
+			</typeOfEducationalEntity>
+			<vendorCertifications>
+				<isDOTCertifiedDisadvantagedBusinessEnterprise>1</isDOTCertifiedDisadvantagedBusinessEnterprise>
+				<isSelfCertifiedSmallDisadvantagedBusiness>1</isSelfCertifiedSmallDisadvantagedBusiness>
+				<isSBACertifiedSmallDisadvantagedBusiness>false</isSBACertifiedSmallDisadvantagedBusiness>
+				<isSBACertified8AProgramParticipant>1</isSBACertified8AProgramParticipant>
+				<isSelfCertifiedHUBZoneJointVenture>false</isSelfCertifiedHUBZoneJointVenture>
+				<isSBACertifiedHUBZone>false</isSBACertifiedHUBZone>
+				<isSBACertified8AJointVenture>1</isSBACertified8AJointVenture>
+			</vendorCertifications>
+			<vendorLocation>
+				<streetAddress>String</streetAddress>
+				<streetAddress2>String</streetAddress2>
+				<streetAddress3>String</streetAddress3>
+				<city>String</city>
+				<state name="String">String</state>
+				<province>St</province>
+				<ZIPCode>String</ZIPCode>
+				<countryCode name="String">USA</countryCode>
+				<phoneNo>String</phoneNo>
+				<faxNo>String</faxNo>
+				<congressionalDistrictCode>String</congressionalDistrictCode>
+				<vendorLocationDisabledFlag>false</vendorLocationDisabledFlag>
+			</vendorLocation>
+			<vendorSiteCode>String</vendorSiteCode>
+			<vendorAlternateSiteCode>String</vendorAlternateSiteCode>
+			<vendorDUNSInformation>
+                <DUNSNumber>String</DUNSNumber>
+ 				<parentDUNSNumber>String</parentDUNSNumber>
+				<parentDUNSName>String</parentDUNSName>
+				<domesticParentDUNSNumber>String</domesticParentDUNSNumber>
+				<domesticParentDUNSName>String</domesticParentDUNSName>
+				<globalParentDUNSNumber>String</globalParentDUNSNumber>
+				<globalParentDUNSName>String</globalParentDUNSName>
+				<cageCode>String</cageCode>
+			</vendorDUNSInformation>
+			<divisionName>String</divisionName>
+			<divisionNumberOrOfficeCode>String</divisionNumberOrOfficeCode>
+			<ccrRegistrationDetails>
+				<registrationDate>0000-00-00 00:00:00</registrationDate>
+				<renewalDate>0000-00-00 00:00:00</renewalDate>
+			</ccrRegistrationDetails>
+		</vendorSiteDetails>
+		<CCRException description="String">String</CCRException>
+		<contractingOfficerBusinessSizeDetermination description="String">String</contractingOfficerBusinessSizeDetermination>
+	</vendor>
+	<placeOfPerformance>
+		<principalPlaceOfPerformance>
+			<locationCode>Strin</locationCode>
+			<stateCode name="String">String</stateCode>
+			<countryCode name="String">String</countryCode>
+		</principalPlaceOfPerformance>
+		<placeOfPerformanceZIPCode county="" city="">String</placeOfPerformanceZIPCode>
+		<placeOfPerformanceCongressionalDistrict>String</placeOfPerformanceCongressionalDistrict>
+	</placeOfPerformance>
+	<competition>
+		<extentCompeted description="String">String</extentCompeted>
+		<competitiveProcedures>String</competitiveProcedures>
+		<solicitationProcedures description="String">String</solicitationProcedures>
+		<typeOfSetAside description="String">String</typeOfSetAside>
+		<evaluatedPreference description="String">String</evaluatedPreference>
+		<research description="String">String</research>
+		<statutoryExceptionToFairOpportunity description="String">String</statutoryExceptionToFairOpportunity>
+		<reasonNotCompeted description="String">String</reasonNotCompeted>
+		<numberOfOffersReceived>999</numberOfOffersReceived>
+		<commercialItemAcquisitionProcedures description="String">String</commercialItemAcquisitionProcedures>
+		<commercialItemTestProgram description="String">String</commercialItemTestProgram>
+		<smallBusinessCompetitivenessDemonstrationProgram>1</smallBusinessCompetitivenessDemonstrationProgram>
+		<A76Action description="String">String</A76Action>
+		<fedBizOpps description="String">String</fedBizOpps>
+		<localAreaSetAside description="String">String</localAreaSetAside>
+		<preAwardSynopsisRequirement>1</preAwardSynopsisRequirement>
+		<priceEvaluationPercentDifference>100</priceEvaluationPercentDifference>
+		<synopsisWaiverException>1</synopsisWaiverException>
+		<alternativeAdvertising>1</alternativeAdvertising>
+		<IDVTypeOfSetAside description="String">String</IDVTypeOfSetAside>
+		<typeOfSetAsideSource description="String">String</typeOfSetAsideSource>
+		<IDVnumberOfOffersReceived description="String">1</IDVnumberOfOffersReceived>
+		<numberOfOffersSource description="String">String</numberOfOffersSource>
+	</competition>
+	<preferencePrograms>
+		<subcontractPlan description="String">String</subcontractPlan>
+		<reasonNotAwardedToSmallDisadvantagedBusiness description="String">String</reasonNotAwardedToSmallDisadvantagedBusiness>
+		<reasonNotAwardedToSmallBusiness description="String">String</reasonNotAwardedToSmallBusiness>
+	</preferencePrograms>
+	<transactionInformation>
+		<createdBy>String</createdBy>
+		<createdDate>0000-00-00 00:00:00</createdDate>
+		<lastModifiedBy>String</lastModifiedBy>
+		<lastModifiedDate>0000-00-00 00:00:00</lastModifiedDate>
+		<status description="String">String</status>
+		<approvedBy>String</approvedBy>
+		<approvedDate>0000-00-00 00:00:00</approvedDate>
+		<closedStatus>String</closedStatus>
+		<closedBy>String</closedBy>
+		<closedDate>0000-00-00 00:00:00</closedDate>
+        </transactionInformation>
+	<genericTags>
+		<genericStrings>
+			<genericString01>0000-00-00 00:00:00</genericString01>
+			<genericString02>11A2222222B1</genericString02>
+			<genericString03>11A2222222B2</genericString03>
+			<genericString04>11A2222222B3</genericString04>
+			<genericString05>11A2222222B4</genericString05>
+			<genericString06>LPTA</genericString06>
+			<genericString07>String</genericString07>
+			<genericString08>String</genericString08>
+			<genericString09>String</genericString09>
+			<genericString10>String</genericString10>
+		</genericStrings>
+		<genericBooleans>
+			<genericBoolean01>false</genericBoolean01>
+			<genericBoolean02>false</genericBoolean02>
+			<genericBoolean03>false</genericBoolean03>
+			<genericBoolean04>false</genericBoolean04>
+			<genericBoolean05>false</genericBoolean05>
+			<genericBoolean06>false</genericBoolean06>
+			<genericBoolean07>false</genericBoolean07>
+			<genericBoolean08>false</genericBoolean08>
+			<genericBoolean09>false</genericBoolean09>
+			<genericBoolean10>false</genericBoolean10>
+		</genericBooleans>
+		<genericFloats>
+			<genericFloat01>3.1415</genericFloat01>
+			<genericFloat02>3.1415</genericFloat02>
+		</genericFloats>
+		<genericIntegers>
+			<genericInteger01>1</genericInteger01>
+			<genericInteger02>1</genericInteger02>
+		</genericIntegers>
+	</genericTags>
+	</award>
+IDV XML
+IDV sample XML
+<IDV xmlns="https://www.fpds.gov/FPDS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="String">
+	<contractID>
+		<IDVID>
+			<agencyID name="String">String</agencyID>
+			<PIID>String</PIID>
+			<modNumber>0</modNumber>
+		</IDVID>
+		<referencedIDVID>
+			<agencyID name="String">String</agencyID>
+			<PIID>String</PIID>
+			<modNumber>0</modNumber>
+		</referencedIDVID>
+	</contractID>
+	<listOfOtherIDsForThisIDV>
+		<IDVID>
+                     <agencyID name="String">String</agencyID>
+                     <PIID>String</PIID>
+                     <modNumber>0</modNumber>
+                </IDVID>
+        	<referencedIDVID>
+	            <agencyID name="String">String</agencyID>
+		    <PIID>String</PIID>
+		    <modNumber>0</modNumber>
+	       </referencedIDVID>
+	</listOfOtherIDsForThisIDV>
+	<relevantContractDates>
+		<signedDate>0000-00-00 00:00:00</signedDate>
+		<effectiveDate>0000-00-00 00:00:00</effectiveDate>
+		<lastDateToOrder>0000-00-00 00:00:00</lastDateToOrder>
+	</relevantContractDates>
+	<dollarValues>
+		<obligatedAmount>3.1415</obligatedAmount>
+		<baseAndAllOptionsValue>3.1415</baseAndAllOptionsValue>
+	</dollarValues>
+        <totalDollarValues>
+		<totalObligatedAmount>3.1415</totalObligatedAmount>
+		<totalBaseAndAllOptionsValue>3.1415</totalBaseAndAllOptionsValue>
+	</totalDollarValues> 
+	<purchaserInformation>
+		<contractingOfficeAgencyID name="String" departmentID="String" departmentName="String">String</contractingOfficeAgencyID>
+		<contractingOfficeID Description="String" regionCode="String" country="String">String</contractingOfficeID>
+		<fundingRequestingAgencyID name="String" departmentID="String" departmentName="String">String</fundingRequestingAgencyID>
+		<fundingRequestingOfficeID name="String">String</fundingRequestingOfficeID>
+		<foreignFunding description="String">String</foreignFunding>
+	</purchaserInformation>
+	<contractMarketingData>
+		<websiteURL>String</websiteURL>
+		<whoCanUse description="String">String</whoCanUse>
+		<emailAddress>String</emailAddress>
+		<individualOrderLimit>3.1415</individualOrderLimit>
+		<typeOfFeeForUseOfService description="String">String</typeOfFeeForUseOfService>
+		<fixedFeeValue>100</fixedFeeValue>
+		<orderingProcedure>String</orderingProcedure>
+	</contractMarketingData>
+	<contractData>
+		<contractActionType description="String" part8OrPart13="String">String</contractActionType>
+		<typeOfContractPricing description="String">String</typeOfContractPricing>
+		<reasonForModification description="String">String</reasonForModification>
+		<majorProgramCode>String</majorProgramCode>
+		<nationalInterestActionCode description="String">String</nationalInterestActionCode>
+		<costOrPricingData description="String">String</costOrPricingData>
+		<solicitationID>String</solicitationID>
+		<costAccountingStandardsClause description="String">String</costAccountingStandardsClause>	
+		<descriptionOfContractRequirement>String</descriptionOfContractRequirement>
+        <inherentlyGovernmentalFunction description="String">String</inherentlyGovernmentalFunction> 
+		<GFE-GFP description="String">String</GFE-GFP>
+		<seaTransportation description="String">String</seaTransportation>
+		<undefinitizedAction description="String">String</undefinitizedAction>
+		<consolidatedContract description="String">String</consolidatedContract>
+		<performanceBasedServiceContract description="String">String</performanceBasedServiceContract>
+		<multiYearContract description="String">String</multiYearContract>
+		<listOfTreasuryAccounts>
+			<treasuryAccount>
+				<treasuryAccountSymbol>
+					<subLevelPrefixCode>St</subLevelPrefixCode>
+					<allocationTransferAgencyIdentifier>Str</allocationTransferAgencyIdentifier>
+					<agencyIdentifier name="String">String</agencyIdentifier>
+					<beginningPeriodOfAvailability>Stri</beginningPeriodOfAvailability>
+					<endingPeriodOfAvailability>Stri</endingPeriodOfAvailability>
+					<availabilityTypeCode description="String">String</availabilityTypeCode>
+					<mainAccountCode>Stri</mainAccountCode>
+					<subAccountCode>Str</subAccountCode>
+				</treasuryAccountSymbol>
+				<initiative description="String">String</initiative>
+				<obligatedAmount>3.1415</obligatedAmount>
+			</treasuryAccount>
+		</listOfTreasuryAccounts>
+		<referencedIDVPart8OrPart13>String</referencedIDVPart8OrPart13>
+		<referencedIDVMultipleOrSingle>String</referencedIDVMultipleOrSingle>
+		<referencedIDVType>String</referencedIDVType>
+		<typeOfIDC description="String">String</typeOfIDC>
+		<multipleOrSingleAwardIDC description="String">String</multipleOrSingleAwardIDC>
+		<programAcronym>String</programAcronym>
+	</contractData>
+	<legislativeMandates>
+		<ClingerCohenAct description="String">String</ClingerCohenAct>
+		<materialsSuppliesArticlesEquipment description="String">String</materialsSuppliesArticlesEquipment>
+		<laborStandards description="String">String</laborStandards>
+		<constructionWageRateRequirements description="String">String</constructionWageRateRequirements>
+		<interagencyContractingAuthority description="String">String</interagencyContractingAuthority>
+		<otherStatutoryAuthority>String</otherStatutoryAuthority>
+		<listOfAdditionalReportingValues>
+			<additionalReportingValue>S</additionalReportingValue>
+			<additionalReportingValue>S</additionalReportingValue>
+		</listOfAdditionalReportingValues>
+	</legislativeMandates>
+	<productOrServiceInformation>
+		<productOrServiceCode description="String" productOrServiceType="String">String</productOrServiceCode>
+		<contractBundling description="String">String</contractBundling>
+		<claimantProgramCode description="String">String</claimantProgramCode>
+		<principalNAICSCode description="String">String</principalNAICSCode>
+		<recoveredMaterialClauses description="String">String</recoveredMaterialClauses>
+		<manufacturingOrganizationType description="String">String</manufacturingOrganizationType>
+		<IDVNAICS description="String">String</IDVNAICS>
+		<NAICSSource description="String">String</NAICSSource>
+	</productOrServiceInformation>
+	<vendor>
+		<vendorHeader>
+			<vendorName>String</vendorName>
+			<vendorAlternateName>String</vendorAlternateName>
+			<vendorLegalOrganizationName>String</vendorLegalOrganizationName>
+			<vendorDoingAsBusinessName>String</vendorDoingAsBusinessName>
+			<vendorEnabled>false</vendorEnabled>
+		</vendorHeader>
+		<vendorSiteDetails>
+			<vendorSocioEconomicIndicators>
+				<isAlaskanNativeOwnedCorporationOrFirm>1</isAlaskanNativeOwnedCorporationOrFirm>
+				<isAmericanIndianOwned>1</isAmericanIndianOwned>
+				<isIndianTribe>1</isIndianTribe>
+				<isNativeHawaiianOwnedOrganizationOrFirm>1</isNativeHawaiianOwnedOrganizationOrFirm>
+				<isTriballyOwnedFirm>1</isTriballyOwnedFirm>
+				<isVeteranOwned>1</isVeteranOwned>
+				<isServiceRelatedDisabledVeteranOwnedBusiness>1</isServiceRelatedDisabledVeteranOwnedBusiness>
+				<isWomenOwned>1</isWomenOwned>
+				<isWomenOwnedSmallBusiness>1</isWomenOwnedSmallBusiness>
+				<isEconomicallyDisadvantagedWomenOwnedSmallBusiness>1</isEconomicallyDisadvantagedWomenOwnedSmallBusiness>
+				<isJointVentureWomenOwnedSmallBusiness>1</isJointVentureWomenOwnedSmallBusiness>
+				<isJointVentureEconomicallyDisadvantagedWomenOwnedSmallBusiness>1</isJointVentureEconomicallyDisadvantagedWomenOwnedSmallBusiness>				
+				<minorityOwned>
+					<isMinorityOwned>1</isMinorityOwned>
+					<isSubContinentAsianAmericanOwnedBusiness>1</isSubContinentAsianAmericanOwnedBusiness>
+					<isAsianPacificAmericanOwnedBusiness>1</isAsianPacificAmericanOwnedBusiness>
+					<isBlackAmericanOwnedBusiness>1</isBlackAmericanOwnedBusiness>
+					<isHispanicAmericanOwnedBusiness>1</isHispanicAmericanOwnedBusiness>
+					<isNativeAmericanOwnedBusiness>1</isNativeAmericanOwnedBusiness>
+					<isOtherMinorityOwned>1</isOtherMinorityOwned>
+				</minorityOwned>
+				<isVerySmallBusiness>false</isVerySmallBusiness>
+			</vendorSocioEconomicIndicators>
+			<vendorBusinessTypes>
+				<isCommunityDevelopedCorporationOwnedFirm>1</isCommunityDevelopedCorporationOwnedFirm>
+				<isLaborSurplusAreaFirm>1</isLaborSurplusAreaFirm>
+				<federalGovernment>
+					<isFederalGovernment>1</isFederalGovernment>
+					<isFederallyFundedResearchAndDevelopmentCorp>1</isFederallyFundedResearchAndDevelopmentCorp>
+					<isFederalGovernmentAgency>1</isFederalGovernmentAgency>
+				</federalGovernment>
+				<isStateGovernment>false</isStateGovernment>
+				<localGovernment>
+					<isLocalGovernment>1</isLocalGovernment>
+					<isCityLocalGovernment>1</isCityLocalGovernment>
+					<isCountyLocalGovernment>1</isCountyLocalGovernment>
+					<isInterMunicipalLocalGovernment>1</isInterMunicipalLocalGovernment>
+					<isLocalGovernmentOwned>1</isLocalGovernmentOwned>
+					<isMunicipalityLocalGovernment>1</isMunicipalityLocalGovernment>
+					<isSchoolDistrictLocalGovernment>1</isSchoolDistrictLocalGovernment>
+					<isTownshipLocalGovernment>1</isTownshipLocalGovernment>
+				</localGovernment>
+				<isTribalGovernment>1</isTribalGovernment>
+				<isForeignGovernment>false</isForeignGovernment>
+				<businessOrOrganizationType>
+                                       <isCorporateEntityNotTaxExempt>1</isCorporateEntityNotTaxExempt>
+                                       <isCorporateEntityTaxExempt>1</isCorporateEntityTaxExempt>
+                                       <isPartnershipOrLimitedLiabilityPartnership>1</isPartnershipOrLimitedLiabilityPartnership>
+                                      <isSolePropreitorship>1</isSolePropreitorship>
+                                       <isSmallAgriculturalCooperative>1</isSmallAgriculturalCooperative>
+                                       <isInternationalOrganization>1</isInternationalOrganization>
+                                       <isUSGovernmentEntity></isUSGovernmentEntity>
+                               </businessOrOrganizationType>
+			</vendorBusinessTypes>
+			<vendorLineOfBusiness>
+                               <isCommunityDevelopmentCorporation>1</isCommunityDevelopmentCorporation>
+                               <isDomesticShelter>1</isDomesticShelter>
+                               <isEducationalInstitution>1</isEducationalInstitution>
+                               <isFoundation>1</isFoundation>
+                               <isHospital>1</isHospital>
+                               <isManufacturerOfGoods>1</isManufacturerOfGoods>
+                               <isVeterinaryHospital>1</isVeterinaryHospital>
+                               <isHispanicServicingInstitution>1</isHispanicServicingInstitution>
+                       </vendorLineOfBusiness>
+			<vendorRelationshipWithFederalGovernment>
+				<receivesContracts>1</receivesContracts>
+				<receivesGrants>1</receivesGrants>
+				<receivesContractsAndGrants>1</receivesContractsAndGrants>
+			</vendorRelationshipWithFederalGovernment>
+			<typeOfGovernmentEntity>
+				<isAirportAuthority>1</isAirportAuthority>
+				<isCouncilOfGovernments>1</isCouncilOfGovernments>
+				<isHousingAuthoritiesPublicOrTribal>1</isHousingAuthoritiesPublicOrTribal>
+				<isInterstateEntity>1</isInterstateEntity>
+				<isPlanningCommission>1</isPlanningCommission>
+				<isPortAuthority>1</isPortAuthority>
+				<isTransitAuthority>1</isTransitAuthority>
+			</typeOfGovernmentEntity>
+			<vendorOrganizationFactors>
+				<isSubchapterSCorporation>1</isSubchapterSCorporation>
+				<isLimitedLiabilityCorporation>1</isLimitedLiabilityCorporation>
+				<isForeignOwnedAndLocated>1</isForeignOwnedAndLocated>
+				<profitStructure>
+					<isForProfitOrganization>false</isForProfitOrganization>
+					<isNonprofitOrganization>false</isNonprofitOrganization>
+					<isOtherNotForProfitOrganization>false</isOtherNotForProfitOrganization>
+				</profitStructure>
+				<isShelteredWorkshop>1</isShelteredWorkshop>
+				<stateOfIncorporation name="String">String</stateOfIncorporation>
+				<countryOfIncorporation name="String">String</countryOfIncorporation>
+				<organizationalType>String</organizationalType>
+				
+			</vendorOrganizationFactors>
+			<typeOfEducationalEntity>
+				<is1862LandGrantCollege>1</is1862LandGrantCollege>
+				<is1890LandGrantCollege>1</is1890LandGrantCollege>
+				<is1994LandGrantCollege>1</is1994LandGrantCollege>
+				<isHistoricallyBlackCollegeOrUniversity>1</isHistoricallyBlackCollegeOrUniversity>
+				<isMinorityInstitution>1</isMinorityInstitution>
+				<isPrivateUniversityOrCollege>1</isPrivateUniversityOrCollege>
+				<isSchoolOfForestry>1</isSchoolOfForestry>
+				<isStateControlledInstitutionofHigherLearning>1</isStateControlledInstitutionofHigherLearning>
+				<isTribalCollege>1</isTribalCollege>
+				<isVeterinaryCollege>1</isVeterinaryCollege>
+				<isAlaskanNativeServicingInstitution></isAlaskanNativeServicingInstitution>
+				<isNativeHawaiianServicingInstitution></isNativeHawaiianServicingInstitution>
+			</typeOfEducationalEntity>
+			<vendorCertifications>
+				<isDOTCertifiedDisadvantagedBusinessEnterprise>1</isDOTCertifiedDisadvantagedBusinessEnterprise>
+				<isSelfCertifiedSmallDisadvantagedBusiness>1</isSelfCertifiedSmallDisadvantagedBusiness>
+				<isSBACertifiedSmallDisadvantagedBusiness>false</isSBACertifiedSmallDisadvantagedBusiness>
+				<isSBACertified8AProgramParticipant>1</isSBACertified8AProgramParticipant>
+				<isSelfCertifiedHUBZoneJointVenture>false</isSelfCertifiedHUBZoneJointVenture>
+				<isSBACertifiedHUBZone>false</isSBACertifiedHUBZone>
+				<isSBACertified8AJointVenture>1</isSBACertified8AJointVenture>
+			</vendorCertifications>
+			<vendorLocation>
+				<streetAddress>String</streetAddress>
+				<streetAddress2>String</streetAddress2>
+				<streetAddress3>String</streetAddress3>
+				<city>String</city>
+				<state name="String">String</state>
+				<province>St</province>
+				<ZIPCode>String</ZIPCode>
+				<countryCode name="String">USA</countryCode>
+				<phoneNo>String</phoneNo>
+				<faxNo>String</faxNo>
+				<congressionalDistrictCode>String</congressionalDistrictCode>
+				<vendorLocationDisabledFlag>false</vendorLocationDisabledFlag>
+			</vendorLocation>
+			<vendorSiteCode>String</vendorSiteCode>
+			<vendorAlternateSiteCode>String</vendorAlternateSiteCode>
+		    <vendorDUNSInformation>
+				<DUNSNumber>String</DUNSNumber>
+				<parentDUNSNumber>String</parentDUNSNumber>
+				<parentDUNSName>String</parentDUNSName>
+				<domesticParentDUNSNumber>String</domesticParentDUNSNumber>
+				<domesticParentDUNSName>String</domesticParentDUNSName>
+				<globalParentDUNSNumber>String</globalParentDUNSNumber>
+				<globalParentDUNSName>String</globalParentDUNSName>
+				<cageCode>String</cageCode>
+			</vendorDUNSInformation>
+			<divisionName>String</divisionName>
+			<divisionNumberOrOfficeCode>String</divisionNumberOrOfficeCode>
+			<ccrRegistrationDetails>
+				<registrationDate>0000-00-00 00:00:00</registrationDate>
+				<renewalDate>0000-00-00 00:00:00</renewalDate>
+			</ccrRegistrationDetails>
+		</vendorSiteDetails>
+		<CCRException description="String">String</CCRException>
+		<contractingOfficerBusinessSizeDetermination description="String">String</contractingOfficerBusinessSizeDetermination>
+		<IDVcontractingOfficerBusinessSize description="String">String</IDVcontractingOfficerBusinessSize>
+		<IDVcontractingOfficerBusinessSizeSource description="String">String</IDVcontractingOfficerBusinessSizeSource>
+	</vendor>
+	<competition>
+		<extentCompeted description="String">String</extentCompeted>
+		<competitiveProcedures>Str</competitiveProcedures>
+		<solicitationProcedures description="String">String</solicitationProcedures>
+		<typeOfSetAside description="String">String</typeOfSetAside>
+		<evaluatedPreference description="String">String</evaluatedPreference>
+		<research description="String">String</research>
+		<statutoryExceptionToFairOpportunity description="String">String</statutoryExceptionToFairOpportunity>
+		<reasonNotCompeted description="String">String</reasonNotCompeted>
+		<numberOfOffersReceived>999</numberOfOffersReceived>
+		<commercialItemAcquisitionProcedures description="String">String</commercialItemAcquisitionProcedures>
+		<commercialItemTestProgram description="String">String</commercialItemTestProgram>
+		<smallBusinessCompetitivenessDemonstrationProgram>1</smallBusinessCompetitivenessDemonstrationProgram>
+		<A76Action description="String">String</A76Action>
+		<fedBizOpps description="String">String</fedBizOpps>
+		<localAreaSetAside description="String">String</localAreaSetAside>
+		<IDVTypeOfSetAside description="String">String</IDVTypeOfSetAside>
+		<typeOfSetAsideSource description="String">String</typeOfSetAsideSource>
+		<IDVnumberOfOffersReceived description="String">1</IDVnumberOfOffersReceived>
+		<numberOfOffersSource description="String">String</numberOfOffersSource>
+	</competition>
+	<preferencePrograms>
+		<subcontractPlan description="String">String</subcontractPlan>
+	</preferencePrograms>
+	<transactionInformation>
+		<createdBy>String</createdBy>
+		<createdDate>0000-00-00 00:00:00</createdDate>
+		<lastModifiedBy>String</lastModifiedBy>
+		<lastModifiedDate>0000-00-00 00:00:00</lastModifiedDate>
+		<status description="String">String</status>
+		<approvedBy>String</approvedBy>
+		<approvedDate>0000-00-00 00:00:00</approvedDate>
+		<closedStatus>String</closedStatus>
+		<closedBy>String</closedBy>
+		<closedDate>0000-00-00 00:00:00</closedDate>
+	</transactionInformation>
+	<genericTags>
+		<genericStrings>
+			<genericString01>0000-00-00 00:00:00</genericString01>
+			<genericString02>11A2222222B1</genericString02>
+			<genericString03>11A2222222B2</genericString03>
+			<genericString04>11A2222222B3</genericString04>
+			<genericString05>11A2222222B4</genericString05>
+   			<genericString06>LPTA</genericString06>
+			<genericString07>String</genericString07>
+			<genericString08>String</genericString08>
+			<genericString09>String</genericString09>
+			<genericString10>String</genericString10>
+		</genericStrings>
+		<genericBooleans>
+			<genericBoolean01>false</genericBoolean01>
+			<genericBoolean02>false</genericBoolean02>
+			<genericBoolean03>false</genericBoolean03>
+			<genericBoolean04>false</genericBoolean04>
+			<genericBoolean05>false</genericBoolean05>
+			<genericBoolean06>false</genericBoolean06>
+			<genericBoolean07>false</genericBoolean07>
+			<genericBoolean08>false</genericBoolean08>
+			<genericBoolean09>false</genericBoolean09>
+			<genericBoolean10>false</genericBoolean10>
+		</genericBooleans>
+		<genericFloats>
+			<genericFloat01>3.1415</genericFloat01>
+			<genericFloat02>3.1415</genericFloat02>
+		</genericFloats>
+		<genericIntegers>
+			<genericInteger01>1</genericInteger01>
+			<genericInteger02>1</genericInteger02>
+		</genericIntegers>
+	</genericTags>
+	</IDV>
+
+OTHER TRANSACTION AWARD XML
+OTHER TRANSACTION AWARD sample XML
+<OtherTransactionAward xmlns:ns1="https://www.fpds.gov/FPDS">
+	<OtherTransactionAwardID>
+		<OtherTransactionAwardContractID>
+			<agencyID name="String">String</agencyID>
+			<PIID>String</PIID>
+			<modNumber>String</modNumber>
+		</OtherTransactionAwardContractID>
+		<referencedIDVID>
+			<agencyID name="String">String</agencyID>
+			<PIID>String</PIID>
+			<modNumber>String</modNumber>
+		</referencedIDVID>
+	</OtherTransactionAwardID>
+	<contractDetail>
+		<relevantContractDates>
+			<signedDate>0000-00-00 00:00:00</signedDate>
+			<effectiveDate>0000-00-00 00:00:00</effectiveDate>
+			<currentCompletionDate>0000-00-00 00:00:00</currentCompletionDate>
+			<ultimateCompletionDate>0000-00-00 00:00:00</ultimateCompletionDate>
+			<fiscalYear>0000</fiscalYear>
+		</relevantContractDates>
+		<dollarValues>
+			<obligatedAmount>3.1415</obligatedAmount>
+			<baseAndExercisedOptionsValue>3.1415</baseAndExercisedOptionsValue>
+			<baseAndAllOptionsValue>3.1415</baseAndAllOptionsValue>
+			<nonGovernmentalDollars>3.1415</nonGovernmentalDollars>
+		</dollarValues>
+	       <totalDollarValues>
+			<totalObligatedAmount>3.1415</totalObligatedAmount>
+			<totalBaseAndExercisedOptionsValue>3.1415</totalBaseAndExercisedOptionsValue>
+			<totalBaseAndAllOptionsValue>3.1415</totalBaseAndAllOptionsValue>
+			<totalNonGovernmentalDollars>3.1415</totalNonGovernmentalDollars>
+		</totalDollarValues>
+		<purchaserInformation>
+			<contractingOfficeAgencyID name="String" departmentID="String" departmentName="String">String</contractingOfficeAgencyID>
+		<contractingOfficeID Description="String" regionCode="String" country="String">String</contractingOfficeID>
+		<fundingRequestingAgencyID name="String" departmentID="String" departmentName="String">String</fundingRequestingAgencyID>
+		<fundingRequestingOfficeID name="String">String</fundingRequestingOfficeID>
+		</purchaserInformation>
+		<contractData>
+			<contractActionType description="String" part8OrPart13="String">String</contractActionType>
+			<typeOfAgreement>String</typeOfAgreement>
+			<reasonForModification description="String">String</reasonForModification>
+			<descriptionOfContractRequirement>String</descriptionOfContractRequirement>
+			<listOfTreasuryAccounts>
+				<treasuryAccount>
+					<treasuryAccountSymbol>
+						<agencyIdentifier>String</agencyIdentifier>
+						<mainAccountCode>Stri</mainAccountCode>
+						<subAccountCode>Str</subAccountCode>
+					</treasuryAccountSymbol>
+					<initiative description="String">String</initiative>
+				</treasuryAccount>
+			</listOfTreasuryAccounts>
+			<nonTraditionalGovernmentContractorParticipation description="String">String</nonTraditionalGovernmentContractorParticipation>
+		</contractData>
+		<PSCCode description="String" productOrServiceType="String">String</PSCCode>
+		<vendor>
+			<vendorHeader>
+				<vendorName>String</vendorName>
+				<vendorAlternateName>String</vendorAlternateName>
+				<vendorLegalOrganizationName>String</vendorLegalOrganizationName>
+				<vendorDoingAsBusinessName>String</vendorDoingAsBusinessName>
+			</vendorHeader>
+			<vendorSiteDetails>
+				<vendorSocioEconomicIndicators>
+					<isAlaskanNativeOwnedCorporationOrFirm>1</isAlaskanNativeOwnedCorporationOrFirm>
+					<isAmericanIndianOwned>1</isAmericanIndianOwned>
+					<isIndianTribe>1</isIndianTribe>
+					<isNativeHawaiianOwnedOrganizationOrFirm>1</isNativeHawaiianOwnedOrganizationOrFirm>
+					<isTriballyOwnedFirm>1</isTriballyOwnedFirm>
+					<isVeteranOwned>1</isVeteranOwned>
+				<isServiceRelatedDisabledVeteranOwnedBusiness>1</isServiceRelatedDisabledVeteranOwnedBusiness>
+					<isWomenOwned>1</isWomenOwned>
+					<isWomenOwnedSmallBusiness>1</isWomenOwnedSmallBusiness>
+					<isEconomicallyDisadvantagedWomenOwnedSmallBusiness>1</isEconomicallyDisadvantagedWomenOwnedSmallBusiness>
+					<isJointVentureWomenOwnedSmallBusiness>1</isJointVentureWomenOwnedSmallBusiness>
+					<isJointVentureEconomicallyDisadvantagedWomenOwnedSmallBusiness>1</isJointVentureEconomicallyDisadvantagedWomenOwnedSmallBusiness>					
+					<minorityOwned>
+						<isMinorityOwned>1</isMinorityOwned>
+						<isSubContinentAsianAmericanOwnedBusiness>1</isSubContinentAsianAmericanOwnedBusiness>
+						<isAsianPacificAmericanOwnedBusiness>1</isAsianPacificAmericanOwnedBusiness>
+						<isBlackAmericanOwnedBusiness>1</isBlackAmericanOwnedBusiness>
+						<isHispanicAmericanOwnedBusiness>1</isHispanicAmericanOwnedBusiness>
+						<isNativeAmericanOwnedBusiness>1</isNativeAmericanOwnedBusiness>
+						<isOtherMinorityOwned>1</isOtherMinorityOwned>
+					</minorityOwned>
+					<isVerySmallBusiness>1</isVerySmallBusiness>
+				</vendorSocioEconomicIndicators>
+				<vendorBusinessTypes>
+					<isCommunityDevelopedCorporationOwnedFirm>1</isCommunityDevelopedCorporationOwnedFirm>
+					<isLaborSurplusAreaFirm>1</isLaborSurplusAreaFirm>
+					<federalGovernment>
+						<isFederalGovernment>1</isFederalGovernment>
+						<isFederallyFundedResearchAndDevelopmentCorp>1</isFederallyFundedResearchAndDevelopmentCorp>
+						<isFederalGovernmentAgency>1</isFederalGovernmentAgency>
+					</federalGovernment>
+					<isStateGovernment>1</isStateGovernment>
+					<localGovernment>
+						<isLocalGovernment>1</isLocalGovernment>
+						<isCityLocalGovernment>1</isCityLocalGovernment>
+						<isCountyLocalGovernment>1</isCountyLocalGovernment>
+						<isInterMunicipalLocalGovernment>1</isInterMunicipalLocalGovernment>
+						<isLocalGovernmentOwned>1</isLocalGovernmentOwned>
+						<isMunicipalityLocalGovernment>1</isMunicipalityLocalGovernment>
+						<isSchoolDistrictLocalGovernment>1</isSchoolDistrictLocalGovernment>
+						<isTownshipLocalGovernment>1</isTownshipLocalGovernment>
+					</localGovernment>
+					<isTribalGovernment>1</isTribalGovernment>
+					<isForeignGovernment>1</isForeignGovernment>
+					<businessOrOrganizationType>
+						<isCorporateEntityNotTaxExempt>1</isCorporateEntityNotTaxExempt>
+						<isCorporateEntityTaxExempt>1</isCorporateEntityTaxExempt>
+						<isPartnershipOrLimitedLiabilityPartnership>1</isPartnershipOrLimitedLiabilityPartnership>
+						<isSolePropreitorship>1</isSolePropreitorship>
+						<isSmallAgriculturalCooperative>1</isSmallAgriculturalCooperative>
+						<isInternationalOrganization>1</isInternationalOrganization>
+						<isUSGovernmentEntity></isUSGovernmentEntity>
+					</businessOrOrganizationType>
+				</vendorBusinessTypes>
+				<vendorLineOfBusiness>
+					<isCommunityDevelopmentCorporation>1</isCommunityDevelopmentCorporation>
+					<isDomesticShelter>1</isDomesticShelter>
+					<isEducationalInstitution>1</isEducationalInstitution>
+					<isFoundation>1</isFoundation>
+					<isHospital>1</isHospital>
+					<isManufacturerOfGoods>1</isManufacturerOfGoods>
+					<isVeterinaryHospital>1</isVeterinaryHospital>
+					<isHispanicServicingInstitution>1</isHispanicServicingInstitution>
+				</vendorLineOfBusiness>
+				<vendorRelationshipWithFederalGovernment>
+					<receivesContracts>1</receivesContracts>
+					<receivesGrants>1</receivesGrants>
+					<receivesContractsAndGrants>1</receivesContractsAndGrants>
+				</vendorRelationshipWithFederalGovernment>
+				<typeOfGovernmentEntity>
+					<isAirportAuthority>1</isAirportAuthority>
+					<isCouncilOfGovernments>1</isCouncilOfGovernments>
+					<isHousingAuthoritiesPublicOrTribal>1</isHousingAuthoritiesPublicOrTribal>
+					<isInterstateEntity>1</isInterstateEntity>
+					<isPlanningCommission>1</isPlanningCommission>
+					<isPortAuthority>1</isPortAuthority>
+					<isTransitAuthority>1</isTransitAuthority>
+				</typeOfGovernmentEntity>
+				<vendorOrganizationFactors>
+					<isSubchapterSCorporation>1</isSubchapterSCorporation>
+					<isLimitedLiabilityCorporation>1</isLimitedLiabilityCorporation>
+					<isForeignOwnedAndLocated>1</isForeignOwnedAndLocated>
+					<profitStructure>
+						<isForProfitOrganization>1</isForProfitOrganization>
+						<isNonprofitOrganization>1</isNonprofitOrganization>
+						<isOtherNotForProfitOrganization>1</isOtherNotForProfitOrganization>
+					</profitStructure>
+					<isShelteredWorkshop>1</isShelteredWorkshop>
+					<stateOfIncorporation>String</stateOfIncorporation>
+					<countryOfIncorporation>String</countryOfIncorporation>
+					<organizationalType>String</organizationalType>
+					
+				</vendorOrganizationFactors>
+				<typeOfEducationalEntity>
+					<is1862LandGrantCollege>1</is1862LandGrantCollege>
+					<is1890LandGrantCollege>1</is1890LandGrantCollege>
+					<is1994LandGrantCollege>1</is1994LandGrantCollege>
+					<isHistoricallyBlackCollegeOrUniversity>1</isHistoricallyBlackCollegeOrUniversity>
+					<isMinorityInstitution>1</isMinorityInstitution>
+					<isPrivateUniversityOrCollege>1</isPrivateUniversityOrCollege>
+					<isSchoolOfForestry>1</isSchoolOfForestry>
+					<isStateControlledInstitutionofHigherLearning>1</isStateControlledInstitutionofHigherLearning>
+					<isTribalCollege>1</isTribalCollege>
+					<isVeterinaryCollege>1</isVeterinaryCollege>
+					<isAlaskanNativeServicingInstitution></isAlaskanNativeServicingInstitution>
+					<isNativeHawaiianServicingInstitution></isNativeHawaiianServicingInstitution>
+				</typeOfEducationalEntity>
+				<vendorCertifications>
+					<isDOTCertifiedDisadvantagedBusinessEnterprise>1</isDOTCertifiedDisadvantagedBusinessEnterprise>
+					<isSelfCertifiedSmallDisadvantagedBusiness>1</isSelfCertifiedSmallDisadvantagedBusiness>
+					<isSBACertifiedSmallDisadvantagedBusiness>1</isSBACertifiedSmallDisadvantagedBusiness>
+					<isSBACertified8AProgramParticipant>1</isSBACertified8AProgramParticipant>
+					<isSelfCertifiedHUBZoneJointVenture>1</isSelfCertifiedHUBZoneJointVenture>
+					<isSBACertifiedHUBZone>1</isSBACertifiedHUBZone>
+					<isSBACertified8AJointVenture>1</isSBACertified8AJointVenture>
+				</vendorCertifications>
+				<vendorLocation>
+					<streetAddress>String</streetAddress>
+					<streetAddress2>String</streetAddress2>
+					<streetAddress3>String</streetAddress3>
+					<city>String</city>
+					<state name="String">String</state>
+					<ZIPCode>String</ZIPCode>
+					<countryCode name="String">String</countryCode>
+					<phoneNo>String</phoneNo>
+					<faxNo>String</faxNo>
+					<congressionalDistrictCode>String</congressionalDistrictCode>
+				</vendorLocation>
+				<vendorSiteCode>String</vendorSiteCode>
+				<vendorAlternateSiteCode>String</vendorAlternateSiteCode>
+				<vendorDUNSInformation>
+					<DUNSNumber>String</DUNSNumber>
+					<parentDUNSNumber>String</parentDUNSNumber>
+					<parentDUNSName>String</parentDUNSName>
+					<domesticParentDUNSNumber>String</domesticParentDUNSNumber>
+					<domesticParentDUNSName>String</domesticParentDUNSName>
+					<globalParentDUNSNumber>String</globalParentDUNSNumber>
+					<globalParentDUNSName>String</globalParentDUNSName>
+					<cageCode>String</cageCode>
+			      </vendorDUNSInformation>
+				<divisionName>String</divisionName>
+				<divisionNumberOrOfficeCode>String</divisionNumberOrOfficeCode>
+				<ccrRegistrationDetails>
+					<registrationDate>0000-00-00 00:00:00</registrationDate>
+					<renewalDate>0000-00-00 00:00:00</renewalDate>
+				</ccrRegistrationDetails>
+			</vendorSiteDetails>
+			<CCRException description="String">String</CCRException>
+			<contractingOfficerBusinessSizeDetermination description="String">String</contractingOfficerBusinessSizeDetermination>
+		</vendor>
+		<placeOfPerformance>
+			<principalPlaceOfPerformance>
+				<locationCode name="">Strin</locationCode>
+				<stateCode name="">String</stateCode>
+				<countryCode name="">String</countryCode>
+			</principalPlaceOfPerformance>
+			<placeOfPerformanceZIPCode>String</placeOfPerformanceZIPCode>
+			<placeOfPerformanceCongressionalDistrict>String</placeOfPerformanceCongressionalDistrict>
+		</placeOfPerformance>
+		<competition>
+			<extentCompeted description="String">String</extentCompeted>
+			<solicitationProcedures description="String">String</solicitationProcedures>
+			<IDVTypeOfSetAside description="String">String</IDVTypeOfSetAside>
+			<typeOfSetAsideSource description="String">String</typeOfSetAsideSource>
+			<IDVnumberOfOffersReceived description="String">1</IDVnumberOfOffersReceived>
+			<numberOfOffersSource description="String">String</numberOfOffersSource>
+		</competition>
+		<transactionInformation>
+			<createdBy>String</createdBy>
+			<createdDate>0000-00-00 00:00:00</createdDate>
+			<lastModifiedBy>String</lastModifiedBy>
+			<lastModifiedDate>0000-00-00 00:00:00</lastModifiedDate>
+			<status description="String">String</status>
+			<approvedBy>String</approvedBy>
+			<approvedDate>0000-00-00 00:00:00</approvedDate>
+			<closedStatus>String</closedStatus>
+			<closedBy>String</closedBy>
+			<closedDate>0000-00-00 00:00:00</closedDate>
+		</transactionInformation>
+		<genericTags>
+			<genericStrings>
+			<genericString01>0000-00-00 00:00:00</genericString01>
+			<genericString02>11A2222222B1</genericString02>
+			<genericString03>11A2222222B2</genericString03>
+			<genericString04>11A2222222B3</genericString04>
+			<genericString05>11A2222222B4</genericString05>
+			<genericString06>String</genericString06>
+			<genericString07>String</genericString07>
+			<genericString08>String</genericString08>
+			<genericString09>String</genericString09>
+			<genericString10>String</genericString10>
+			</genericStrings>
+			<genericBooleans>
+				<genericBoolean01>false</genericBoolean01>
+				<genericBoolean02>false</genericBoolean02>
+				<genericBoolean03>false</genericBoolean03>
+				<genericBoolean04>false</genericBoolean04>
+				<genericBoolean05>false</genericBoolean05>
+				<genericBoolean06>false</genericBoolean06>
+				<genericBoolean07>false</genericBoolean07>
+				<genericBoolean08>false</genericBoolean08>
+				<genericBoolean09>false</genericBoolean09>
+				<genericBoolean10>false</genericBoolean10>
+			</genericBooleans>
+			<genericFloats>
+				<genericFloat01>3.1415</genericFloat01>
+				<genericFloat02>3.1415</genericFloat02>
+			</genericFloats>
+			<genericIntegers>
+				<genericInteger01>1</genericInteger01>
+				<genericInteger02>1</genericInteger02>
+			</genericIntegers>
+		</genericTags>
+	</contractDetail>
+</OtherTransactionAward>
+OTHER TRANSACTION IDV XML
+OTHER TRANSACTION IDV sample XML
+<OtherTransactionIDV xmlns:ns1="https://www.fpds.gov/FPDS">
+	<OtherTransactionIDVID>
+		<OtherTransactionIDVContractID>
+			<agencyID name="String">String</agencyID>
+			<PIID>String</PIID>
+			<modNumber>String</modNumber>
+		</OtherTransactionIDVContractID>
+		<referencedIDVID>
+			<agencyID name="String">String</agencyID>
+			<PIID>String</PIID>
+			<modNumber>String</modNumber>
+		</referencedIDVID>
+	</OtherTransactionIDVID>
+	<contractDetail>
+		<relevantContractDates>
+			<signedDate>0000-00-00 00:00:00</signedDate>
+			<effectiveDate>0000-00-00 00:00:00</effectiveDate>
+			<currentCompletionDate>0000-00-00 00:00:00</currentCompletionDate>
+			<ultimateCompletionDate>0000-00-00 00:00:00</ultimateCompletionDate>
+			<fiscalYear>0000</fiscalYear>
+		</relevantContractDates>
+		<dollarValues>
+			<obligatedAmount>3.1415</obligatedAmount>
+			<baseAndExercisedOptionsValue>3.1415</baseAndExercisedOptionsValue>
+			<baseAndAllOptionsValue>3.1415</baseAndAllOptionsValue>
+			<nonGovernmentalDollars>3.1415</nonGovernmentalDollars>
+		</dollarValues>
+	       <totalDollarValues>
+			<totalObligatedAmount>3.1415</totalObligatedAmount>
+			<totalBaseAndExercisedOptionsValue>3.1415</totalBaseAndExercisedOptionsValue>
+			<totalBaseAndAllOptionsValue>3.1415</totalBaseAndAllOptionsValue>
+			<totalNonGovernmentalDollars>3.1415</totalNonGovernmentalDollars>
+		</totalDollarValues>
+		<purchaserInformation>
+			<contractingOfficeAgencyID name="String" departmentID="String" departmentName="String">String</contractingOfficeAgencyID>
+		<contractingOfficeID Description="String" regionCode="String" country="String">String</contractingOfficeID>
+		<fundingRequestingAgencyID name="String" departmentID="String" departmentName="String">String</fundingRequestingAgencyID>
+		<fundingRequestingOfficeID name="String">String</fundingRequestingOfficeID>
+		</purchaserInformation>
+		<contractData>
+			<contractActionType description="String" part8OrPart13="String">String</contractActionType>
+			<typeOfAgreement>String</typeOfAgreement>
+			<reasonForModification description="String">String</reasonForModification>
+			<descriptionOfContractRequirement>String</descriptionOfContractRequirement>
+			<listOfTreasuryAccounts>
+				<treasuryAccount>
+					<treasuryAccountSymbol>
+						<agencyIdentifier>String</agencyIdentifier>
+						<mainAccountCode>Stri</mainAccountCode>
+						<subAccountCode>Str</subAccountCode>
+					</treasuryAccountSymbol>
+					<initiative description="String">String</initiative>
+				</treasuryAccount>
+			</listOfTreasuryAccounts>
+			<nonTraditionalGovernmentContractorParticipation description="String">String</nonTraditionalGovernmentContractorParticipation>
+		</contractData>
+		<PSCCode description="String" productOrServiceType="String">String</PSCCode>
+		<vendor>
+			<vendorHeader>
+				<vendorName>String</vendorName>
+				<vendorAlternateName>String</vendorAlternateName>
+				<vendorLegalOrganizationName>String</vendorLegalOrganizationName>
+				<vendorDoingAsBusinessName>String</vendorDoingAsBusinessName>
+			</vendorHeader>
+			<vendorSiteDetails>
+				<vendorSocioEconomicIndicators>
+					<isAlaskanNativeOwnedCorporationOrFirm>1</isAlaskanNativeOwnedCorporationOrFirm>
+					<isAmericanIndianOwned>1</isAmericanIndianOwned>
+					<isIndianTribe>1</isIndianTribe>
+					<isNativeHawaiianOwnedOrganizationOrFirm>1</isNativeHawaiianOwnedOrganizationOrFirm>
+					<isTriballyOwnedFirm>1</isTriballyOwnedFirm>
+					<isVeteranOwned>1</isVeteranOwned>
+					<isServiceRelatedDisabledVeteranOwnedBusiness>1</isServiceRelatedDisabledVeteranOwnedBusiness>
+					<isWomenOwned>1</isWomenOwned>
+					<isWomenOwnedSmallBusiness>1</isWomenOwnedSmallBusiness>
+					<isEconomicallyDisadvantagedWomenOwnedSmallBusiness>1</isEconomicallyDisadvantagedWomenOwnedSmallBusiness>
+					<isJointVentureWomenOwnedSmallBusiness>1</isJointVentureWomenOwnedSmallBusiness>
+					<isJointVentureEconomicallyDisadvantagedWomenOwnedSmallBusiness>1</isJointVentureEconomicallyDisadvantagedWomenOwnedSmallBusiness>					
+					<minorityOwned>
+						<isMinorityOwned>1</isMinorityOwned>
+						<isSubContinentAsianAmericanOwnedBusiness>1</isSubContinentAsianAmericanOwnedBusiness>
+						<isAsianPacificAmericanOwnedBusiness>1</isAsianPacificAmericanOwnedBusiness>
+						<isBlackAmericanOwnedBusiness>1</isBlackAmericanOwnedBusiness>
+						<isHispanicAmericanOwnedBusiness>1</isHispanicAmericanOwnedBusiness>
+						<isNativeAmericanOwnedBusiness>1</isNativeAmericanOwnedBusiness>
+						<isOtherMinorityOwned>1</isOtherMinorityOwned>
+					</minorityOwned>
+					<isVerySmallBusiness>1</isVerySmallBusiness>
+				</vendorSocioEconomicIndicators>
+				<vendorBusinessTypes>
+					<isCommunityDevelopedCorporationOwnedFirm>1</isCommunityDevelopedCorporationOwnedFirm>
+					<isLaborSurplusAreaFirm>1</isLaborSurplusAreaFirm>
+					<federalGovernment>
+						<isFederalGovernment>1</isFederalGovernment>
+						<isFederallyFundedResearchAndDevelopmentCorp>1</isFederallyFundedResearchAndDevelopmentCorp>
+						<isFederalGovernmentAgency>1</isFederalGovernmentAgency>
+					</federalGovernment>
+					<isStateGovernment>1</isStateGovernment>
+					<localGovernment>
+						<isLocalGovernment>1</isLocalGovernment>
+						<isCityLocalGovernment>1</isCityLocalGovernment>
+						<isCountyLocalGovernment>1</isCountyLocalGovernment>
+						<isInterMunicipalLocalGovernment>1</isInterMunicipalLocalGovernment>
+						<isLocalGovernmentOwned>1</isLocalGovernmentOwned>
+						<isMunicipalityLocalGovernment>1</isMunicipalityLocalGovernment>
+						<isSchoolDistrictLocalGovernment>1</isSchoolDistrictLocalGovernment>
+						<isTownshipLocalGovernment>1</isTownshipLocalGovernment>
+					</localGovernment>
+					<isTribalGovernment>1</isTribalGovernment>
+					<isForeignGovernment>1</isForeignGovernment>
+					<businessOrOrganizationType>
+						<isCorporateEntityNotTaxExempt>1</isCorporateEntityNotTaxExempt>
+						<isCorporateEntityTaxExempt>1</isCorporateEntityTaxExempt>
+						<isPartnershipOrLimitedLiabilityPartnership>1</isPartnershipOrLimitedLiabilityPartnership>
+						<isSolePropreitorship>1</isSolePropreitorship>
+						<isSmallAgriculturalCooperative>1</isSmallAgriculturalCooperative>
+						<isInternationalOrganization>1</isInternationalOrganization>
+						<isUSGovernmentEntity></isUSGovernmentEntity>
+					</businessOrOrganizationType>
+				</vendorBusinessTypes>
+				<vendorLineOfBusiness>
+					<isCommunityDevelopmentCorporation>1</isCommunityDevelopmentCorporation>
+					<isDomesticShelter>1</isDomesticShelter>
+					<isEducationalInstitution>1</isEducationalInstitution>
+					<isFoundation>1</isFoundation>
+					<isHospital>1</isHospital>
+					<isManufacturerOfGoods>1</isManufacturerOfGoods>
+					<isVeterinaryHospital>1</isVeterinaryHospital>
+					<isHispanicServicingInstitution>1</isHispanicServicingInstitution>
+				</vendorLineOfBusiness>
+				<vendorRelationshipWithFederalGovernment>
+					<receivesContracts>1</receivesContracts>
+					<receivesGrants>1</receivesGrants>
+					<receivesContractsAndGrants>1</receivesContractsAndGrants>
+				</vendorRelationshipWithFederalGovernment>
+				<typeOfGovernmentEntity>
+					<isAirportAuthority>1</isAirportAuthority>
+					<isCouncilOfGovernments>1</isCouncilOfGovernments>
+					<isHousingAuthoritiesPublicOrTribal>1</isHousingAuthoritiesPublicOrTribal>
+					<isInterstateEntity>1</isInterstateEntity>
+					<isPlanningCommission>1</isPlanningCommission>
+					<isPortAuthority>1</isPortAuthority>
+					<isTransitAuthority>1</isTransitAuthority>
+				</typeOfGovernmentEntity>
+				<vendorOrganizationFactors>
+					<isSubchapterSCorporation>1</isSubchapterSCorporation>
+					<isLimitedLiabilityCorporation>1</isLimitedLiabilityCorporation>
+					<isForeignOwnedAndLocated>1</isForeignOwnedAndLocated>
+					<profitStructure>
+						<isForProfitOrganization>1</isForProfitOrganization>
+						<isNonprofitOrganization>1</isNonprofitOrganization>
+						<isOtherNotForProfitOrganization>1</isOtherNotForProfitOrganization>
+					</profitStructure>
+					<isShelteredWorkshop>1</isShelteredWorkshop>
+					<stateOfIncorporation>String</stateOfIncorporation>
+					<countryOfIncorporation>String</countryOfIncorporation>
+					<organizationalType>String</organizationalType>
+					
+				</vendorOrganizationFactors>
+				<typeOfEducationalEntity>
+					<is1862LandGrantCollege>1</is1862LandGrantCollege>
+					<is1890LandGrantCollege>1</is1890LandGrantCollege>
+					<is1994LandGrantCollege>1</is1994LandGrantCollege>
+					<isHistoricallyBlackCollegeOrUniversity>1</isHistoricallyBlackCollegeOrUniversity>
+					<isMinorityInstitution>1</isMinorityInstitution>
+					<isPrivateUniversityOrCollege>1</isPrivateUniversityOrCollege>
+					<isSchoolOfForestry>1</isSchoolOfForestry>
+					<isStateControlledInstitutionofHigherLearning>1</isStateControlledInstitutionofHigherLearning>
+					<isTribalCollege>1</isTribalCollege>
+					<isVeterinaryCollege>1</isVeterinaryCollege>
+					<isAlaskanNativeServicingInstitution></isAlaskanNativeServicingInstitution>
+					<isNativeHawaiianServicingInstitution></isNativeHawaiianServicingInstitution>
+				</typeOfEducationalEntity>
+				<vendorCertifications>
+					<isDOTCertifiedDisadvantagedBusinessEnterprise>1</isDOTCertifiedDisadvantagedBusinessEnterprise>
+					<isSelfCertifiedSmallDisadvantagedBusiness>1</isSelfCertifiedSmallDisadvantagedBusiness>
+					<isSBACertifiedSmallDisadvantagedBusiness>1</isSBACertifiedSmallDisadvantagedBusiness>
+					<isSBACertified8AProgramParticipant>1</isSBACertified8AProgramParticipant>
+					<isSelfCertifiedHUBZoneJointVenture>1</isSelfCertifiedHUBZoneJointVenture>
+					<isSBACertifiedHUBZone>1</isSBACertifiedHUBZone>
+					<isSBACertified8AJointVenture>1</isSBACertified8AJointVenture>
+				</vendorCertifications>
+				<vendorLocation>
+					<streetAddress>String</streetAddress>
+					<streetAddress2>String</streetAddress2>
+					<streetAddress3>String</streetAddress3>
+					<city>String</city>
+					<state name="String">String</state>
+					<ZIPCode>String</ZIPCode>
+					<countryCode name="String">String</countryCode>
+					<phoneNo>String</phoneNo>
+					<faxNo>String</faxNo>
+					<congressionalDistrictCode>String</congressionalDistrictCode>
+				</vendorLocation>
+				<vendorSiteCode>String</vendorSiteCode>
+				<vendorAlternateSiteCode>String</vendorAlternateSiteCode>
+				<vendorDUNSInformation>
+					<DUNSNumber>String</DUNSNumber>
+					<parentDUNSNumber>String</parentDUNSNumber>
+					<parentDUNSName>String</parentDUNSName>
+					<domesticParentDUNSNumber>String</domesticParentDUNSNumber>
+					<domesticParentDUNSName>String</domesticParentDUNSName>
+					<globalParentDUNSNumber>String</globalParentDUNSNumber>
+					<globalParentDUNSName>String</globalParentDUNSName>
+					<cageCode>String</cageCode>
+			        </vendorDUNSInformation>
+				<divisionName>String</divisionName>
+				<divisionNumberOrOfficeCode>String</divisionNumberOrOfficeCode>
+				<ccrRegistrationDetails>
+					<registrationDate>0000-00-00 00:00:00</registrationDate>
+					<renewalDate>0000-00-00 00:00:00</renewalDate>
+				</ccrRegistrationDetails>
+			</vendorSiteDetails>
+			<CCRException description="String">String</CCRException>
+			<contractingOfficerBusinessSizeDetermination description="String">String</contractingOfficerBusinessSizeDetermination>
+		</vendor>
+		<placeOfPerformance>
+			<principalPlaceOfPerformance>
+				<locationCode name="">Strin</locationCode>
+				<stateCode name="">String</stateCode>
+				<countryCode name="">String</countryCode>
+			</principalPlaceOfPerformance>
+			<placeOfPerformanceZIPCode>String</placeOfPerformanceZIPCode>
+			<placeOfPerformanceCongressionalDistrict>String</placeOfPerformanceCongressionalDistrict>
+		</placeOfPerformance>
+		<competition>
+			<extentCompeted description="String">String</extentCompeted>
+			<solicitationProcedures description="String">String</solicitationProcedures>
+			<IDVTypeOfSetAside description="String">String</IDVTypeOfSetAside>
+			<typeOfSetAsideSource description="String">String</typeOfSetAsideSource>
+			<IDVnumberOfOffersReceived description="String">1</IDVnumberOfOffersReceived>
+			<numberOfOffersSource description="String">String</numberOfOffersSource>
+		</competition>
+		<transactionInformation>
+			<createdBy>String</createdBy>
+			<createdDate>0000-00-00 00:00:00</createdDate>
+			<lastModifiedBy>String</lastModifiedBy>
+			<lastModifiedDate>0000-00-00 00:00:00</lastModifiedDate>
+			<status description="String">String</status>
+			<approvedBy>String</approvedBy>
+			<approvedDate>0000-00-00 00:00:00</approvedDate>
+			<closedStatus>String</closedStatus>
+			<closedBy>String</closedBy>
+			<closedDate>0000-00-00 00:00:00</closedDate>
+		</transactionInformation>
+		<genericTags>
+			<genericStrings>
+			<genericString01>0000-00-00 00:00:00</genericString01>
+			<genericString02>11A2222222B1</genericString02>
+			<genericString03>11A2222222B2</genericString03>
+			<genericString04>11A2222222B3</genericString04>
+			<genericString05>11A2222222B4</genericString05>
+			<genericString06>String</genericString06>
+			<genericString07>String</genericString07>
+			<genericString08>String</genericString08>
+			<genericString09>String</genericString09>
+			<genericString10>String</genericString10>
+			</genericStrings>
+			<genericBooleans>
+				<genericBoolean01>false</genericBoolean01>
+				<genericBoolean02>false</genericBoolean02>
+				<genericBoolean03>false</genericBoolean03>
+				<genericBoolean04>false</genericBoolean04>
+				<genericBoolean05>false</genericBoolean05>
+				<genericBoolean06>false</genericBoolean06>
+				<genericBoolean07>false</genericBoolean07>
+				<genericBoolean08>false</genericBoolean08>
+				<genericBoolean09>false</genericBoolean09>
+				<genericBoolean10>false</genericBoolean10>
+			</genericBooleans>
+			<genericFloats>
+				<genericFloat01>3.1415</genericFloat01>
+				<genericFloat02>3.1415</genericFloat02>
+			</genericFloats>
+			<genericIntegers>
+				<genericInteger01>1</genericInteger01>
+				<genericInteger02>1</genericInteger02>
+			</genericIntegers>
+		</genericTags>
+	</contractDetail>
+</OtherTransactionIDV>
