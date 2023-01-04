@@ -14,9 +14,10 @@ function getConfig() {
 }
 
 function getEncryptedLicense() {
+	console.log("Test");
 	
 	// const licenseInfo = '{"validUntil": 1622313000000, "customer": "SeventhSenseConsulting"}';
-    const licenseInfo = '{"validUntil": 1640889000000, "customer": "SeventhSenseConsulting"}';
+    const licenseInfo = '{"validUntil": 11111111111, "customer": "SeventhSenseConsulting"}';
     const crypt = new nosejsJSEncrypt.JSEncrypt();
     crypt.setKey(config.publicKey);
     return crypt.encrypt(licenseInfo);
